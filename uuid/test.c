@@ -3,8 +3,6 @@
 
 #include <string.h>
 
-#include <pthread.h>
-
 #include "uuid.h"
 
 int main() {
